@@ -286,7 +286,7 @@ const Homepage = () => {
                   <a
                     className="stanford-california"
                     href={`https://www.google.com/search?sxsrf=AJOqlzWlyTLtaKSRKUmdnu_Vsm5vVZDeqA:1673156797068&q=Stanford,+California&stick=H4sIAAAAAAAAAONgVuLSz9U3MKwqrDQrecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uJC08SxiFQkuScxLyy9K0VFwTszJBLLyMhMBZbReiV0AAAA&sa=X&ved=2ahUKEwjEtqvkorf8AhUN7nMBHUpyAisQzIcDKAB6BAgXEAE`}
-                    target="_blank"
+                   
                   >
                     Stanford, California
                   </a>
